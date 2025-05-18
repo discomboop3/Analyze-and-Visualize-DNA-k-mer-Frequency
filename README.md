@@ -8,7 +8,7 @@ freq = {}
 k = 4
 #k = int(input("Enter k (>= 3): "))
 #while k < 3:
-#    k = int(input("Please enter a value of k >= 3: "))
+    #k = int(input("Please enter a value of k >= 3: "))
 
 seq_len = len(dna_seq)
 
